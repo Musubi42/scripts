@@ -1,1 +1,1 @@
-Ce repo contiendra des scripts que ce soit en Python, JS, BASH, permettant de simplifier la vie.
+Permettra de rename de façon granulaire comme générale des chemins
